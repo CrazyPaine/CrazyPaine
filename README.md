@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrazyPaine
+- 👋🏾 Hi, I’m @CrazyPaine
 - 👀 I’m interested in techology, astrology, music, video games, books and writing
 - 🌱 I’m currently learning HTML and CSS. I'm actually about to start a project soon anyways
 - 💞️ I’m looking to collaborate on ...
